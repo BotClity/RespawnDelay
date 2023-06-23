@@ -1,0 +1,7 @@
+name: RespawnDelay
+version: '${project.version}'
+main: bc.respawndelay.Main
+api-version: 1.16
+commands:
+  delay:
+    usage: delay reload
